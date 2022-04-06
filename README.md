@@ -3,4 +3,4 @@
 
 ## Contents
 - See [SVM](SVM) folder SVM for algorithm training and prediction.
-- See Graphics for drawing images.
+- See [Graphics](Graphics) for drawing images.
