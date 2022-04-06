@@ -1,0 +1,5 @@
+numpy
+pandas
+rdkit-pypi
+imbalanced-learn
+scikit-learn
